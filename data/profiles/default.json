@@ -1,0 +1,17 @@
+{
+  "name": null,
+  "interests": [
+    "refund requests",
+    "cancellation"
+  ],
+  "notes": [
+    "User requested 3 examples from the SHIPPING category.",
+    "User asked about categories in the dataset.",
+    "User asked about the number of refund requests.",
+    "User asked about distribution of intents in the ACCOUNT category.",
+    "User asked to summarise the FEEDBACK category.",
+    "User asked about how agents respond to cancellations.",
+    "User asked for examples of people wanting their money back.",
+    "User asked about the winner of the Champions League."
+  ]
+}
