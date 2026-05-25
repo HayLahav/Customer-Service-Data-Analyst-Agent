@@ -4,7 +4,8 @@ A conversational AI agent built with **LangGraph** that lets you explore and ana
 
 The system combines a ReAct reasoning loop, persistent multi-session memory, a FastMCP tool server, and a Streamlit chat UI, all powered by the **Nebius API** running **nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B**.
 
-![Streamlit UI demo](assets/demo.png)
+<img width="730" height="454" alt="Client dataset agenr" src="https://github.com/user-attachments/assets/ed9bf9e3-f6fb-47e9-b075-527ffb10e1a3" />
+
 
 ---
 
