@@ -13,12 +13,12 @@ The system combines a ReAct reasoning loop, persistent multi-session memory, a F
 
 | Capability | Details |
 |---|---|
-| **Natural language queries** | Ask in plain English — the agent picks the right tool automatically |
+| **Natural language queries** | Ask in plain English, the agent picks the right tool automatically |
 | **Smart query router** | Classifies every query as *structured*, *unstructured*, *recommendation*, or *out-of-scope* before acting |
 | **7 dataset tools** | Categories, intents, examples, counts, distributions, keyword search, and overview |
-| **Persistent conversation memory** | Full history stored in SQLite via LangGraph's `SqliteSaver` — resume any session by name |
+| **Persistent conversation memory** | Full history stored in SQLite via LangGraph's `SqliteSaver`, resume any session by name |
 | **User profile (semantic memory)** | Per-session JSON profile that the agent builds up over time (name, interests, patterns) |
-| **Query recommender** | Interactive 3-phase dialogue: *Suggest → Refine → Execute* — the agent proposes, you approve |
+| **Query recommender** | Interactive 3-phase dialogue: *Suggest → Refine → Execute* , the agent proposes, you approve |
 | **Out-of-scope guard** | Off-topic questions (e.g. sports scores) are politely declined without using general knowledge |
 | **Streamlit chat UI** | Full chat interface with live reasoning display and session switching |
 | **FastMCP server** | Expose dataset tools over the Model Context Protocol for use with Claude Desktop or any MCP client |
