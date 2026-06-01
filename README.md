@@ -1,6 +1,6 @@
 # Customer Support Dataset Agent
 
-A conversational AI agent built with **LangGraph** that lets you explore and analyse 26,872 labelled customer-support conversations through natural language — no SQL, no code.
+A conversational AI agent built with **LangGraph** that lets you explore and analyse 26,872 labelled customer-support conversations through natural language - no SQL, no code.
 
 The system combines a ReAct reasoning loop, persistent multi-session memory, a FastMCP tool server, and a Streamlit chat UI, all powered by the **Nebius API** running **nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B**.
 
