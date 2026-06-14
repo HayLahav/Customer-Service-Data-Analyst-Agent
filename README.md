@@ -252,13 +252,13 @@ Add to `%APPDATA%\Claude\claude_desktop_config.json` (Windows) or `~/Library/App
 
 ## Tech Stack
 
-- **[LangGraph](https://github.com/langchain-ai/langgraph)** — stateful agent graph with SQLite checkpointing
-- **[LangChain](https://github.com/langchain-ai/langchain)** — tool definitions, LLM integration
-- **[FastMCP](https://github.com/jlowin/fastmcp)** — Model Context Protocol server
-- **[Streamlit](https://streamlit.io)** — chat UI
-- **[Nebius API](https://studio.nebius.com)** — `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B` inference
-- **[Pydantic](https://docs.pydantic.dev)** — tool input schemas
-- **[pandas](https://pandas.pydata.org)** — dataset querying
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** - stateful agent graph with SQLite checkpointing
+- **[LangChain](https://github.com/langchain-ai/langchain)** - tool definitions, LLM integration
+- **[FastMCP](https://github.com/jlowin/fastmcp)** - Model Context Protocol server
+- **[Streamlit](https://streamlit.io)** - chat UI
+- **[Nebius API](https://studio.nebius.com)** - `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B` inference
+- **[Pydantic](https://docs.pydantic.dev)** - tool input schemas
+- **[pandas](https://pandas.pydata.org)** - dataset querying
 
 ---
 
